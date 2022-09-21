@@ -1,0 +1,14 @@
+{
+  "name": "Hasher",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "text to hash to text on the fly!",
+  "action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": ["scripting", "clipboardRead", "clipboardWrite", "storage"]
+}
